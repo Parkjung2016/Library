@@ -2,3 +2,4 @@
 
 ## < 필수 설치 >
 - DOtween
+- Cinemachine
